@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Если вы используете эту работу, пожалуйста, процитируйте её. / If you use this work, please cite it."
+title: "SHIKARDOS ORBITAL: модельно-калиброванное радиальное управление параметрами обработки звука и изображения — математическая структура, достижимость и вычислительная проверка"
+authors:
+  - family-names: Gazhiu
+    given-names: Yuri Georgievich
+year: 2026
+version: 2.1
+license: CC-BY-4.0
+repository-code: "https://github.com/volchebnoeremeslo-web/shikardos-orbital"
