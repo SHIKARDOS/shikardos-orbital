@@ -11,7 +11,7 @@
 
 ## Русский
 
-Научная рукопись о технологии SHIKARDOS ORBITAL — радиальном управлении, которое работает в бесплатном проигрывателе [SHIKARDOS](https://github.com/volchebnoeremeslo-web/shikardos-audio): одна точка на круге задаёт согласованное изменение нескольких параметров звука (пять сторон: BODY, AIR, DENSITY, WIDTH, VOICE) или изображения (шесть ручек). В работе выведена точная двумерная форма общей нормировки, доказаны предел совместной величины шагов, эллиптическая геометрия достижимых состояний, аналитические пределы, условия обратного восстановления и неединственность матрицы родства по одной карте; повторены доступные расчёты и честно названы ограничения.
+Научная рукопись о технологии SHIKARDOS ORBITAL — радиальном управлении, которое работает в бесплатном проигрывателе [SHIKARDOS](https://github.com/SHIKARDOS/shikardos-audio): одна точка на круге задаёт согласованное изменение нескольких параметров звука (пять сторон: BODY, AIR, DENSITY, WIDTH, VOICE) или изображения (шесть ручек). В работе выведена точная двумерная форма общей нормировки, доказаны предел совместной величины шагов, эллиптическая геометрия достижимых состояний, аналитические пределы, условия обратного восстановления и неединственность матрицы родства по одной карте; повторены доступные расчёты и честно названы ограничения.
 
 | Файл | Формат |
 |---|---|
@@ -25,7 +25,7 @@
 
 ## English
 
-A research manuscript on SHIKARDOS ORBITAL, the radial control used in the free [SHIKARDOS](https://github.com/volchebnoeremeslo-web/shikardos-audio) player: one point on a circle sets a coordinated change of several audio parameters (five poles: BODY, AIR, DENSITY, WIDTH, VOICE) or image parameters (six controls). The work derives an exact two-dimensional form of the joint normalization; proves a bound on the joint step magnitude, the elliptical geometry of reachable states, analytical extrema, conditions for inverse recovery, and non-identifiability of the kinship matrix from one fixed map; repeats the available computations; and states its limitations openly.
+A research manuscript on SHIKARDOS ORBITAL, the radial control used in the free [SHIKARDOS](https://github.com/SHIKARDOS/shikardos-audio) player: one point on a circle sets a coordinated change of several audio parameters (five poles: BODY, AIR, DENSITY, WIDTH, VOICE) or image parameters (six controls). The work derives an exact two-dimensional form of the joint normalization; proves a bound on the joint step magnitude, the elliptical geometry of reachable states, analytical extrema, conditions for inverse recovery, and non-identifiability of the kinship matrix from one fixed map; repeats the available computations; and states its limitations openly.
 
 | File | Format |
 |---|---|
@@ -49,6 +49,6 @@ Text and figures — © 2026 Yuri Georgievich Gazhiu, licensed under [CC BY 4.0]
 
 ## Как ссылаться / How to cite
 
-> Гажиу Ю. Г. SHIKARDOS ORBITAL: модельно-калиброванное радиальное управление параметрами обработки звука и изображения. Математическая структура, достижимость и вычислительная проверка. Научная рукопись, ред. 2.1. — 2026. — URL: https://github.com/volchebnoeremeslo-web/shikardos-orbital
+> Гажиу Ю. Г. SHIKARDOS ORBITAL: модельно-калиброванное радиальное управление параметрами обработки звука и изображения. Математическая структура, достижимость и вычислительная проверка. Научная рукопись, ред. 2.1. — 2026. — URL: https://github.com/SHIKARDOS/shikardos-orbital
 
-> Gazhiu, Y. G. (2026). *SHIKARDOS ORBITAL: Model-calibrated radial control of audio and image processing parameters — mathematical structure, reachability, and computational verification* (Research manuscript, Revision 2.1). https://github.com/volchebnoeremeslo-web/shikardos-orbital
+> Gazhiu, Y. G. (2026). *SHIKARDOS ORBITAL: Model-calibrated radial control of audio and image processing parameters — mathematical structure, reachability, and computational verification* (Research manuscript, Revision 2.1). https://github.com/SHIKARDOS/shikardos-orbital
